@@ -1,2 +1,2 @@
-# Thalia-Nivia-cvp
-inventory
+# inventory-service
+inventory service
